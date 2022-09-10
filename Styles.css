@@ -1,0 +1,65 @@
+.TopButton {
+    padding: 8px;
+    background-color: #212121;
+    transition-duration: 0.4s;
+    border-style: none;
+    color: white;
+  }
+  
+.TopButton:hover {
+    background-color: #303030;
+    border-style: none;
+    color: white;
+}
+
+.WebButton {
+    padding: 8px;
+    background-color: #303030;
+    transition-duration: 0.4s;
+    border-radius: 5px;
+    border-style: solid;
+    border-color:white;
+    color: white;
+  }
+  
+.WebButton:hover {
+    background-color:#424242;
+}
+
+.SignUp{
+    margin:auto;
+    border-radius: 25px;
+    width:500px;
+    height:600px;
+    border-style:solid;
+    border-color:#424242;
+}
+
+.Login{
+    margin:auto;
+    border-radius: 25px;
+    width:500px;
+    height:520px;
+    border-style:solid;
+    border-color:#424242;
+}
+
+.FindUser{
+    margin:auto;
+    border-radius: 25px;
+    width:500px;
+    height:270px;
+    border-style:solid;
+    border-color:#424242;
+}
+
+.TextBox{
+    margin:10px;
+    width:470px;
+    height:35px;
+    background-color: #303030;
+    border-radius: 5px;
+    border-style:solid;
+    border-color:#424242;
+    color:white;
+}
